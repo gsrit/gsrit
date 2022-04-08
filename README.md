@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Gaurav Singh</h1>
-<h3 align="center">Always curious about opportunities resulting from the blend of Automation ,Open Source, Cloud Native and Advanced Cloud infrastructure.
+<h3 align="center">Always curious about possiblities resulting from the blend of Automation ,Open Source, Cloud Native and Advanced Cloud infrastructure.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
